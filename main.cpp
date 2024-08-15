@@ -11,6 +11,9 @@ void quicksort(){
 void mergesort(){
     //
 }
+void insertionsort(){
+    
+}
 int main(){
     cout<<"hello world";
     cout<<"hello .dot batch";
