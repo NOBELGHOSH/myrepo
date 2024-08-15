@@ -8,6 +8,9 @@ void quicksort(){
     // 
 
 }
+void mergesort(){
+    //
+}
 int main(){
     cout<<"hello world";
     cout<<"hello .dot batch";
